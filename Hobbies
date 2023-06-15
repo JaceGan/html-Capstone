@@ -1,0 +1,22 @@
+<Doctype html>
+    <html lang = "en"></html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hobbies</title>
+    </head>
+    <body>
+        <h1>My Hobbies</h1>
+        <hr/>
+        <h2>Hobbies</h2>
+        I love both outdoors and indoors.
+        <br>
+        Here are a list of stuff i love to do during my free time
+        <ol>
+            <li>Reading</li>
+            <li>Watching TV</li>
+            <li>Bouldering</li>
+            <li>Cycling</li>
+            <li>Learning New Languages</li>
+        </ol>
+        <h2>Fun Fact</h2>
+        I can speak English, Chinese and is currrently learning German and Korean
